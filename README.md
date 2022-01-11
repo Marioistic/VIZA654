@@ -1,9 +1,9 @@
 
 Garvin Beltz
-VIZA 654 - Digital Image
-All files completed Fall 2021
-Department of Visualization, Texas A&M University
-Python 3.9
+# VIZA 654 - Digital Image
+# All files completed Fall 2021
+# Department of Visualization, Texas A&M University
+# Python 3.9
 
 Each of these files is a different program (or a portion of a larger program)
 that can be downloaded and ran to produce the described image(s).
